@@ -1,0 +1,11 @@
+BasedOnStyle: LLVM
+UseTab: Never
+BreakBeforeBraces: Allman
+AlwaysBreakAfterReturnType: TopLevelDefinitions
+AlignConsecutiveAssignments: true
+AlignTrailingComments: true
+AlwaysBreakTemplateDeclarations: true
+ColumnLimit: 100
+Cpp11BracedListStyle: true
+AlignConsecutiveDeclarations: true
+AlignEscapedNewlinesLeft: true
